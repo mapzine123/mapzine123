@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 <img align=left src="https://github-readme-stats.vercel.app/api?username=mapzine123&show_icons=true&theme=midnight-purple"/>
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapzine123&theme=dark&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapzine123&theme=midnight-purple&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
