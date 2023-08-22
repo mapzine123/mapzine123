@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align=left src="https://github-readme-stats.vercel.app/api?username=mapzine123&show_icons=true&theme=midnight-purple"/>
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapzine123&theme=midnight-purple&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapzine123&layout=compact&theme=midnight-purple)
