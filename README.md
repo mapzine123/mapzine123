@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapzine123&show_icons=true&theme=midnight-purple)
+![mapzine123's GitHub stats](https://github-readme-stats-ym2t.vercel.app/api?username=mapzine123&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapzine123&layout=compact&theme=midnight-purple)
